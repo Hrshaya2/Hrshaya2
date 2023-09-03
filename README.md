@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrshaya2
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning a Bachelor of Information Technology
+- 🌱 I’m currently taking a full-stack web developer certificate at the University of Moratuwa.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me harshalakshitha123456@gmial.com
 
