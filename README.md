@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently taking a full-stack web developer certificate at the University of Moratuwa.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me harshalakshitha123456@gmial.com
+- 📫 How to reach me harshalakshitha001@gmial.com
 
 <!---
 Hrshaya2/Hrshaya2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
